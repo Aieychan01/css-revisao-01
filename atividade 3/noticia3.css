@@ -1,0 +1,63 @@
+#principal {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #280;
+    margin-left: 60px;
+}
+
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #FFF;
+}
+
+.origem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    color: #280;
+    background-color: #FFF;
+}
+
+.resumo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #FFF;
+}
+
+#rodape {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    background-color: #CFB;
+}
+
+.tb1 {
+    border: solid 1px black;
+    width: 766px;
+    height: 36px;
+    background-color: #000033;
+}
+
+#link:link {
+    color: #0000FF;
+}
+
+#visited:visited {
+    color: #ddc71a;
+}
+
+#active:active {
+    color: #ac0b44;
+}
+
+#hover:hover {
+    color: #ff0000;
+    font-weight: bold;
+}
